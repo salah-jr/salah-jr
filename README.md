@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 Visit my portfolio at [https://www.mohammedsalah.co](https://www.mohammedsalah.co)
 
