@@ -10,9 +10,6 @@
 - 📝 I regularly write articles on [https://www.mohammedsalah.co/blog](https://www.mohammedsalah.co/blog)
 
 - 📫 Reach me on **mohammed.s.korna@gmail.com**
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salah-jr&show_icons=true&theme=nightowl)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
