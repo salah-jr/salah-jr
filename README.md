@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 👨‍💻 Visit my portfolio at [https://www.mohammedsalah.co](https://www.mohammedsalah.co)
+- 👨‍💻 Visit my portfolio at [https://mohammedsalah.me](https://mohammedsalah.me)
 
-- 📝 I regularly write articles on [https://www.mohammedsalah.co/blog](https://www.mohammedsalah.co/blog)
+- 📝 I regularly write articles on [https://mohammedsalah.me/blog](https://mohammedsalah.me/blog)
 
 - 📫 Reach me on **mohammed.s.korna@gmail.com**
 
