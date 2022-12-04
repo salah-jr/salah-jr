@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👨‍💻 Visit my portfolio at [https://mohammedsalah.me](https://mohammedsalah.me)
 
