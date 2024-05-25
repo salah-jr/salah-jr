@@ -7,7 +7,7 @@
 
 - 👨‍💻 Visit my portfolio at [https://mohammedsalah.online](https://mohammedsalah.online)
 
-- 📝 I regularly write articles on [https://mohammedsalah.online/blog](https://mohammedsalah.online/blog)
+- 📝 I regularly write articles on [https://mohammedsalah.online/blog](https://blog.mohammedsalah.online)
 
 - 📫 Reach me on **mohammed.s.korna@gmail.com**
 
