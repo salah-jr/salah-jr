@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 Visit [my portfolio](https://mohammedsalah.online)
+- 👨‍💻 Visit [my portfolio](http://mohammedsalah.online)
 
 - 📝 I regularly write articles on [my personal blog](https://blog.mohammedsalah.online)
 
