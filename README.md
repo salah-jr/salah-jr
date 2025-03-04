@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 Visit [my portfolio](http://mohammedsalah.online)
+- 👨‍💻 Visit [my portfolio](http://mohammedsalah.site)
 
-- 📝 I regularly write articles on [my personal blog](https://blog.mohammedsalah.online)
+- 📝 I regularly write articles on [my personal blog](https://blog.mohammedsalah.site)
 
 - 📫 Reach me on **mohammed.s.korna@gmail.com**
 
